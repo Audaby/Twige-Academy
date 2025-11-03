@@ -1,0 +1,176 @@
+{
+  "courses": [
+    {
+      "id": "english",
+      "title": "English",
+      "services": [
+        {
+          "id": "free-mode",
+          "title": "Free Mode",
+          "sections": [
+            {
+              "id": "verbs",
+              "title": "Verbs",
+              "content": "<iframe src='https://docs.google.com/presentation/d/e/2PACX-1vRGx67oNoJUWRKorLPRwd36tAKRe_59nYrsPyiSAdo9dsZ9UOtePajxDbVihvR4dpxopPz7yQta2F9O/pubembed?start=false&loop=false&delayms=3000'></iframe>"
+            },
+            {
+              "id": "words",
+              "title": "Words",
+              "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vSK65b7yRUY8NrKktaPKPzMbAO3zPffUCHNHjeEO459NfqrkCm8qryZfftB11otvTPv8WY1daSoeSsk/pub?embedded=true'></iframe>"
+            },
+            {
+              "id": "games",
+              "title": "Games",
+              "content": "<iframe src='https://docs.google.com/presentation/d/e/2PACX-1vRGx67oNoJUWRKorLPRwd36tAKRe_59nYrsPyiSAdo9dsZ9UOtePajxDbVihvR4dpxopPz7yQta2F9O/pubembed?start=false&loop=false&delayms=3000'></iframe>"
+            },
+            {
+            "id": "exercises",
+            "title": "Exercises",
+            "loader": true,
+            "sectionId": "exercises"
+            }
+          ]
+        },
+        {
+          "id": "self-paced",
+          "title": "Self-Paced",
+          "weeks": [
+            {
+              "id": "week1",
+              "title": "Week 1",
+              "options": [
+                {
+                  "id": "text",
+                  "title": "Learn with Text",
+                  "content": "<iframe src='https://docs.google.com/presentation/d/e/2PACX-1vRGx67oNoJUWRKorLPRwd36tAKRe_59nYrsPyiSAdo9dsZ9UOtePajxDbVihvR4dpxopPz7yQta2F9O/pubembed?start=false&loop=false&delayms=3000'></iframe>"
+                },
+                {
+                  "id": "video",
+                  "title": "Learn with Video",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vSK65b7yRUY8NrKktaPKPzMbAO3zPffUCHNHjeEO459NfqrkCm8qryZfftB11otvTPv8WY1daSoeSsk/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "vocab-audio",
+                  "title": "Learn with Vocab Audio",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "games",
+                  "title": "Learn with Games",
+                  "content": "<p>Interactive vocabulary game or quiz link can go here.</p>"
+                },
+                {
+                  "id": "quizzes",
+                  "title": "Quizzes",
+                  "content": "<iframe src='https://docs.google.com/forms/d/week1-quiz-id/viewform?embedded=true' width='640' height='800'></iframe>"
+                }
+              ]
+            },
+            {
+              "id": "week2",
+              "title": "Week 2",
+              "options": [
+                {
+                  "id": "text",
+                  "title": "Learn with Text",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "video",
+                  "title": "Learn with Video",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "vocab-audio",
+                  "title": "Learn with Vocab Audio",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "games",
+                  "title": "Learn with Games",
+                  "content": "<p>Interactive vocabulary game or quiz link can go here.</p>"
+                },
+                {
+                  "id": "quizzes",
+                  "title": "Quizzes",
+                  "content": "<iframe src='https://docs.google.com/forms/d/week1-quiz-id/viewform?embedded=true' width='640' height='800'></iframe>"
+                }
+              ]
+            },
+            {
+              "id": "week3",
+              "title": "Week 3",
+              "options": [
+                {
+                  "id": "text",
+                  "title": "Learn with Text",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "video",
+                  "title": "Learn with Video",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "vocab-audio",
+                  "title": "Learn with Vocab Audio",
+                  "content": "<iframe src='https://docs.google.com/document/d/e/2PACX-1vTxoY80dP_1RcA0cjj0FWXMI89Q7RDM3tUGvN001pnTvnZ-E-3eJnGyLaotLyVPEqohA_wBWSv64IML/pub?embedded=true'></iframe>"
+                },
+                {
+                  "id": "games",
+                  "title": "Learn with Games",
+                  "content": "<p>Interactive vocabulary game or quiz link can go here.</p>"
+                },
+                {
+                  "id": "quizzes",
+                  "title": "Quizzes",
+                  "content": "<iframe src='https://docs.google.com/forms/d/week1-quiz-id/viewform?embedded=true' width='640' height='800'></iframe>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "online-class",
+          "title": "Online Class",
+          "content": "<p>Link or embed for live class sessions (e.g., Zoom or Google Meet) can go here.</p>"
+        }
+      ]
+    },
+
+    {
+      "id": "swahili",
+      "title": "Swahili",
+      "services": [
+        {
+          "id": "free-mode",
+          "title": "Free Mode",
+          "sections": [
+            {
+              "id": "verbs",
+              "title": "Verbs",
+              "content": "<iframe src='https://docs.google.com/document/d/swahili-doc-id/preview' width='640' height='480'></iframe>"
+            }
+          ]
+        },
+        {
+          "id": "self-paced",
+          "title": "Self-Paced",
+          "weeks": [
+            {
+              "id": "week1",
+              "title": "Week 1",
+              "options": [
+                {
+                  "id": "text",
+                  "title": "Learn with Text",
+                  "content": "<iframe src='https://docs.google.com/document/d/swahili-week1-doc-id/preview' width='640' height='480'></iframe>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
